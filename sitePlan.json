@@ -1,0 +1,49 @@
+{
+  "businessName": "ELNODS FINANCIAL SERVICES & ENTERPRISES",
+  "industry": "Fintech",
+  "tone": "formal",
+  "tagline": "Your Trusted Partner in Financial Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to ELNODS FINANCIAL SERVICES & ENTERPRISES\n\nYour Trusted Partner in Financial Solutions\n\nWe provide comprehensive financial technology services to individuals and businesses across Delta State. From digital payments to financial advisory, ELNODS delivers secure, innovative solutions tailored to your needs.",
+      "imagePrompt": "Professional Nigerian fintech office interior with modern computers, a diverse team of young professionals working on financial technology, sleek glass partitions, Asaba city skyline visible through windows, warm natural lighting, contemporary furniture, digital screens showing financial charts and graphs, photorealistic, high quality, sharp focus",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About ELNODS FINANCIAL SERVICES & ENTERPRISES\n\nLocated in the heart of Asaba at Rehoboth Junction, behind Eagle Square on Okpanam Road, ELNODS FINANCIAL SERVICES & ENTERPRISES is a leading fintech provider in Delta State. We combine cutting-edge financial technology with deep understanding of the Nigerian market to deliver solutions that work.\n\nOur mission is to make financial services accessible, secure, and efficient for every Nigerian. Whether you're an individual seeking personal financial management tools or a business requiring enterprise payment solutions, we have the expertise and technology to serve you.\n\nWith years of experience in the Nigerian financial services sector, we understand the unique challenges and opportunities in our market. Our team of qualified financial experts and technology professionals work together to provide solutions that are both innovative and practical.",
+      "imagePrompt": "Modern Nigerian office building exterior at Rehoboth Junction Asaba, professional business district, Eagle Square landmark visible in background, well-maintained commercial area, people in business attire walking, clear blue sky, tropical trees, contemporary architecture, photorealistic, daytime, high resolution",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Our Financial Services\n\nDigital Payment Solutions\nSecure, fast, and reliable payment processing for businesses of all sizes. Accept payments through multiple channels including cards, bank transfers, and mobile money.\n\nFinancial Advisory\nExpert guidance on personal finance, business financing, investment strategies, and wealth management tailored to the Nigerian economic environment.\n\nBusiness Banking Solutions\nComprehensive banking services for SMEs including corporate accounts, business loans, and cash management solutions.\n\nMobile Banking\nAccess your finances anytime, anywhere with our secure mobile banking platform designed for the Nigerian user.\n\nCurrency Exchange\nCompetitive foreign exchange rates for individuals and businesses with transparent pricing and fast transactions.\n\nFinancial Technology Integration\nHelp your business integrate modern fintech solutions including APIs, payment gateways, and financial management systems.",
+      "imagePrompt": "Collage of Nigerian fintech services: hands using smartphone for mobile banking, POS terminal processing payment in Lagos market, business people in meeting discussing financial charts, digital wallet interface on tablet screen, Nigerian naira notes with digital overlay effects, modern and professional, photorealistic, vibrant colors",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "Why Choose ELNODS?\n\nSecure & Compliant\nFully licensed and compliant with Nigerian financial regulations. Your money and data are protected with bank-grade security.\n\nLocal Expertise\nDeep understanding of the Delta State and Nigerian financial landscape. We speak your language and understand your needs.\n\nInnovative Technology\nCutting-edge fintech solutions that are user-friendly and reliable. We bring global standards to local problems.\n\nPersonalized Service\nDedicated account managers and customer support team available to assist you. We treat every client as a valued partner.\n\nCompetitive Rates\nTransparent pricing with no hidden fees. We offer some of the most competitive rates in the Nigerian fintech space.\n\nProven Track Record\nTrusted by hundreds of individuals and businesses across Delta State and beyond.",
+      "imagePrompt": "Professional Nigerian customer service representative wearing headset smiling warmly, modern call center with multiple monitors showing financial dashboards, colleagues working in background, bright office space with Nigerian flag visible, certificates and awards on wall, photorealistic, professional atmosphere, high quality",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get In Touch With Us\n\nReady to experience better financial services? Visit us or get in touch today.\n\nOffice Address:\nRehoboth Junction, behind Eagle Square, Okpanam Road, Asaba\nOshimili South, Delta State, Nigeria\n\nPhone:\n07032321868\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\nSunday: Closed\n\nWhether you have questions about our services, need financial advice, or want to open an account, our team is ready to assist you. Click the WhatsApp button for instant support or call us during business hours.",
+      "imagePrompt": "Welcoming Nigerian bank or fintech office reception area, comfortable waiting area with modern chairs, professional receptionist at sleek desk, ELNODS branding on wall, large windows showing Asaba cityscape, indoor plants, clean and professional environment, bright natural lighting, photorealistic, inviting atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07032321868",
+    "email": "info@elnodsfinancial.com",
+    "address": "Rehoboth Junction, behind Eagle Square, Okpanam Road, Asaba, Oshimili South, Delta State, Nigeria",
+    "whatsapp": "https://wa.me/2347032321868"
+  }
+}
